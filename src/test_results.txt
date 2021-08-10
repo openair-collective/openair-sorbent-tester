@@ -1,0 +1,18 @@
+Thanks for buying a FeatherS2!
+
+Your board has been tested and here are the results for your reference.
+
+Test Date & Time: 06/21/2021, 17:13:33 <- Australia
+MAC Address: 7c:df:a1:10:17:98
+
+PSRAM: 8190768 bytes
+FLASH: 16384 KB
+GPIO Test: PASS
+WiFi Test: PASS
+
+This board is good to ship! I hope you enjoy using it :)
+
+Cheers,
+Seon
+Unexpected Maker
+http://unexpectedmaker.com
