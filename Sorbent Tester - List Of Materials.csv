@@ -1,4 +1,5 @@
 Part,Description,Purpose,Source,Link,Number Units,Price per Unit,Total for part,Note
+Drill,To make holes in lid,Make a hole in the lid,Unspecified,https://www.amazon.com/Avid-Power-Cordless-Drill-22pcs/dp/B07PFNTJPV/ref=sr_1_2_sspa?crid=A21BNOIB1FCN,1,$35.99,$35.99,"Optional, if you have your own drill"
 Hot Glue Gun,Tool,Seal hole in lid,Amazon,https://www.amazon.com/gp/product/B08HM3J8QL/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1,1,$19.99,$19.99,"Optional, if you have your own glue gun"
 Hot Glue Stick,Glue Stick,Glue to seal hole,Amazon,https://www.amazon.com/gp/product/B08HM3J8QL/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1,1,$5.59,$5.59,"Optional, if you have your own glue sticks"
 Scale,scale,weigh sorbent for testing,Amazon,https://www.amazon.com/gp/product/B00C3W4QLM/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1,1,$25.50,$25.50,"Optional, if you have a gram level scale"
@@ -7,7 +8,6 @@ Co2 Sensor,Adafruit SCD-30 - NDIR CO2,Co2 PPM Sensing,Adafruit,https://www.adafr
 Micro Controller,FeatherS2 - ESP32-S2 Feather Development Board,Microcontroller,Adafruit,https://www.adafruit.com/product/4769,1,$25.99,$25.99,
 Display,Adafruit FeatherWing OLED - 128x64 OLED,DIsplay for Microcontroller,Adafruit,https://www.adafruit.com/product/4650,1,$14.95,$14.95,
 Cables,SparkFun Qwiic Cable Kit,"Cables for connecting Microcontroller, Display, and Sensor",Sparfun,https://www.sparkfun.com/products/14429,2,$1.95,$3.90,
-Drill,To make holes in lid,Make a hole in the lid,Unspecified,https://www.amazon.com/Avid-Power-Cordless-Drill-22pcs/dp/B07PFNTJPV/ref=sr_1_2_sspa?crid=A21BNOIB1FCN,1,$35.99,$35.99,"Optional, if you have your own drill"
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,Total:,$220.85,
