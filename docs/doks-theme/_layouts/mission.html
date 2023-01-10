@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include site-head.html %}
+</head>
+
+<body data-spy="scroll" data-target=".js-scrollspy">
+
+  <header class="site-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <a href="../" class="site-header__logo">Mission Name</a>
+          <p></p>
+
+        </div><!-- /.col -->
+      </div><!-- /.row -->
+    </div><!-- /.container -->
+  </header><!-- /.site-header -->
+
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7">
+          <div class="content">
+            {{ content }}
+          </div><!-- /.content -->
+        </div><!-- /.col -->
+        <div class="col-md-4 col-md-offset-1">
+          <div class="sections-list-wrapper">
+            <div class="sections-list js-sections js-affix js-scrollspy hidden-xs hidden-sm"></div>
+            <!-- /.sections-list -->
+          </div>
+        </div><!-- /.col -->
+      </div><!-- /.row -->
+    </div><!-- /.container -->
+  </div><!-- /.section -->
+
+  {% include site-footer.html %}
+</body>
+
+</html>
